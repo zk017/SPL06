@@ -1,2 +1,3 @@
 good hello ,it's a test study for git
 second line test
+3rd line test
